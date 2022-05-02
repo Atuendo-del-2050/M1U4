@@ -1,0 +1,50 @@
+p {
+    color: red;
+    font-family: italic;
+    border: 20px;
+
+
+}
+h2{
+    color: rgb(39, 39, 2);
+    font-family: Gotic;
+    font-weight: 30px;
+    background-color: grey;
+}
+h3{
+    color:blueviolet;
+    font-family: Times;
+}
+ul{
+    color: black;
+    font-style: italic;
+}
+ol{
+    color: black;
+    font-style: italic;
+}
+
+#destacados {
+    color: rgb(19, 5, 5);
+    font-style: Times;
+    text-align: center;
+    
+
+}
+#grey{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(97, 102, 102);
+    margin-top: 20px;
+    padding-top: 50px;
+    margin-left: 20px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+
+a:hover {
+    color: red;
+    font-size: medium;
+
+}
